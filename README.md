@@ -6,10 +6,10 @@ Saya Raya Cahya Nurani NIM 2205714 mengerjakan soal Latihan Praktikum dalam mata
 ## Dokumentasi Program
 
 ketika burung menabrak pipa maka game akan terhenti dan menampilkan pesan seperti ini
-![sreenshoot/ss1](sreenshoot/ss1.png)
+![screenshoot/ss1](screenshoot/ss1.png)
 
 klik 'r' pada keyboard maka game akan dimulai ulang
-![sreenshoot/ss2](sreenshoot/ss2.png)
+![screenshoot/ss2](screenshoot/ss2.png)
 
 skor akan terus bertambah +1 selama burung tidak menabrak pipa atau game belum selesai
-![sreenshoot/ss3](sreenshoot/ss3.png)
+![screenshoot/ss3](screenshoot/ss3.png)
